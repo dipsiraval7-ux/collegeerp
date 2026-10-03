@@ -261,24 +261,6 @@ This repo isn't under active feature development, so response times on issues or
 
 ---
 
-## Team
-
-Built as a B.Tech (CSE) project at Government College of Engineering, Keonjhar.
-
-| Name | Role |
-|---|---|
-| Ayusman Avisek Nanda | Team Member |
-| Muna Samal | Team Member |
-| Dibyasmita Mohapatra | Team Member |
-| Debasish Kar | Team Member |
-| Lipika Pati | Team Member |
-
-**Project Guide:** Prof. Santosh Kumar Meher
-**Department:** Computer Science & Engineering
-**Program:** B.Tech, 3rd Year, 6th Semester (2025–26)
-
----
-
 ## License
 
 MIT, see [LICENSE](./LICENSE).
