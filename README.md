@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="screenshots/gcekjr.png" width="72" style="border-radius: 50%;" alt="GCE Keonjhar logo" />
-</p>
+
 
 <h1 align="center">Axiom</h1>
 <p align="center"><i>College Management System</i></p>
-<p align="center"><sub>The Government College of Engineering, Keonjhar name and logo/crest are trademarks of GCE Keonjhar, used here for attribution only, not covered by this project's license, see <a href="./LICENSE">LICENSE</a>.</sub></p>
 
 <p align="center">
   <a href="https://github.com/AyusmanNanda/College_Management_system/actions/workflows/build.yml">
